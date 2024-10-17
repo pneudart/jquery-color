@@ -1,0 +1,19 @@
+{
+  "name": "jquery-color",
+  "version": "1.7.0",
+  "description": "",
+  "main": "jquery.color.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pneudart/jquery-color.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pneudart/jquery-color/issues"
+  },
+  "homepage": "https://github.com/pneudart/jquery-color#readme"
+}
